@@ -8,7 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 * [Splash Page](https://github.com/Jamesadams1988/liftoff-assignments/blob/master/P3-Project_Planning/Splash_page.jpg)
+- [Splash Page - Sketches](https://github.com/Jamesadams1988/liftoff-assignments/blob/master/P3-Project_Planning/Splash%20Page%20Sketches.jpg)
 * [Logged-in Home Page](https://github.com/Jamesadams1988/liftoff-assignments/blob/master/P3-Project_Planning/home_page.jpg)
+- [Logged-in Home Page - sketches](https://github.com/Jamesadams1988/liftoff-assignments/blob/master/P3-Project_Planning/Home%20Page%20Sketches.jpg)
 * [Rate your Offical](https://github.com/Jamesadams1988/liftoff-assignments/blob/master/P3-Project_Planning/Rate_page.jpg)
 
 
